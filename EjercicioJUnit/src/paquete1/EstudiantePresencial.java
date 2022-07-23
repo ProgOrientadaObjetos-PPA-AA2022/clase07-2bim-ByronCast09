@@ -12,8 +12,8 @@ public class EstudiantePresencial extends Estudiante{
     
     //  Métodos establecer y calcular para los datos o atributos de la clase
     // 2.  Método establecerNumeroCreditos(numero: Real)
-    public void establecerNumeroCreditos(int numero){
-        numeroCreditos = numero;
+    public void establecerNumeroCreditos(int num){
+        numeroCreditos = num;
     }
     
     // 3.  Método establecerCostoCredito(valor: Real)
